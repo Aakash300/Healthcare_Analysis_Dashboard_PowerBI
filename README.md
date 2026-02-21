@@ -1,5 +1,5 @@
 ## 📸 Dashboard Preview
-![Healthcare Dashboard](Healthcare Dashboard.JPG)
+![Healthcare Dashboard](Healthcare.JPG)
 
 # 🏥 Health Care Analysis Dashboard
 
